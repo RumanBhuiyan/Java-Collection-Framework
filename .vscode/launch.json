@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch VectorPractise",
+            "request": "launch",
+            "mainClass": "VectorPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayListPracti",
             "request": "launch",
             "mainClass": "ArrayListPractise",
@@ -17,7 +25,6 @@
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
-        },
-        
+        }
     ]
 }
