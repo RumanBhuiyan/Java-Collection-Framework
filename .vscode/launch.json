@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IteratorPractise",
+            "request": "launch",
+            "mainClass": "IteratorPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch VectorPractise",
             "request": "launch",
             "mainClass": "VectorPractise",
