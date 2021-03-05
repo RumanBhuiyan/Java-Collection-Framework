@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayDequeuePractise",
+            "request": "launch",
+            "mainClass": "ArrayDequeuePractise",
+             "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch LinkedListPractise",
             "request": "launch",
             "mainClass": "LinkedListPractise",
