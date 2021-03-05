@@ -21,6 +21,8 @@ public class ArrayListPractise{
         names.remove(2);
 
         //Accessing items
+        System.out.println("Second Element : " + names.get(1));
+        //Iterating through items
         for (String name : names) {
             System.out.print(name+" ");
         }
