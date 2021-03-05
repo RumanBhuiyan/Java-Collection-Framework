@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LinkedListPractise",
+            "request": "launch",
+            "mainClass": "LinkedListPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch QueuePractise",
             "request": "launch",
             "mainClass": "QueuePractise",
