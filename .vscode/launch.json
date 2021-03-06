@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LinkedHashSetPractise",
+            "request": "launch",
+            "mainClass": "LinkedHashSetPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetPractise",
+            "request": "launch",
+            "mainClass": "TreeSetPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetPractise",
+            "request": "launch",
+            "mainClass": "HashSetPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch PriorityQueuePractise",
             "request": "launch",
             "mainClass": "PractisePriorityQueue",
