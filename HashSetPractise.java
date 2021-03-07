@@ -5,7 +5,7 @@
 //but HashSet returns items at random order doesn't follow insertion order
 import java.util.HashSet;
 
-public class HashSetPractise {
+public class HashSetPractise { 
    
     public static void main(String[] args) {
         

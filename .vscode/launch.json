@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HashMapPractise",
+            "request": "launch",
+            "mainClass": "HashMapPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch LinkedHashSetPractise",
             "request": "launch",
             "mainClass": "LinkedHashSetPractise",
