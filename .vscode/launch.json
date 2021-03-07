@@ -6,6 +6,22 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LinkedHashMapPractise",
+            "request": "launch",
+            "mainClass": "LinkedHashMapPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeMapPractise",
+            "request": "launch",
+            "mainClass": "TreeMapPractise",
+            "console": "externalTerminal",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch HashMapPractise",
             "request": "launch",
             "mainClass": "HashMapPractise",
