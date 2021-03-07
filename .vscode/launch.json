@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TreeSetPractise",
+            "request": "launch",
+            "mainClass": "Set.TreeSetPractise",
+            "projectName": "Java-Collection-FrameWork_dd11db8a"
+        },
+        {
+            "type": "java",
             "name": "Launch LinkedHashMapPractise",
             "request": "launch",
             "mainClass": "LinkedHashMapPractise",
